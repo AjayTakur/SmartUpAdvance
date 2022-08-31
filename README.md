@@ -26,7 +26,7 @@ e) Check Us consumer laws on digital subsriptions to setup purchase policies.
  1. PHP 
  2. MySql Server
  
- Note:
+ # Questions
  1. Where to host the AA application?
  2. Security for the application?
  3. Should the application be responsive?
