@@ -27,9 +27,9 @@ e) Check Us consumer laws on digital subsriptions to setup purchase policies.
  2. MySql Server
  
  Note:
- Where to host the AA application?
- Security for the application?
- Should the application be responsive?
- Do we need to have Junits for functionality?
- How to get the test data of Smartup whenever requires for AA platform incase?
+ 1. Where to host the AA application?
+ 2. Security for the application?
+ 3. Should the application be responsive?
+ 4. Do we need to have Junits for functionality?
+ 5. How to get the test data of Smartup whenever requires for AA platform incase?
  
