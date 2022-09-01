@@ -32,4 +32,5 @@ e) Check Us consumer laws on digital subsriptions to setup purchase policies.
  3. Should the application be responsive?
  4. Do we need to have Junits for functionality?
  5. How to get the test data of Smartup whenever requires for AA platform incase?
+ 6. Should the Look and Feel UI has to similar to SmartUp platform?
  
