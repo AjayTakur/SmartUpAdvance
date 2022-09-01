@@ -12,7 +12,8 @@ b) Registration Page to collect user details integrated with simple CRM Plugin.
     1) What is Advance NIL website in flow diagram?
     2) What fields has to be present in registration form page?
     3) Registration details has to be sent to Which platform DB either Smartup or AA?
- 
+ ![q1](https://user-images.githubusercontent.com/4033929/187947496-94bf677b-daca-482f-8048-a4e4f086ecf9.PNG)
+
  
  
 c) Bank account to connect with payment gateway.
