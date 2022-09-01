@@ -43,3 +43,7 @@ e) Check Us consumer laws on digital subsriptions to setup purchase policies.
  6. How to get the test data of Smartup whenever requires for AA platform incase?
  7. Should the Look and Feel UI has to similar to SmartUp platform?
  
+ ## Acronymns
+ 
+ **CRM**: Customer relationship management is any tool, strategy, or process that helps businesses better organize and access customer data.
+ 
