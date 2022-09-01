@@ -42,6 +42,7 @@ e) Check Us consumer laws on digital subsriptions to setup purchase policies.
  5. Do we need to have Junits for functionality?
  6. How to get the test data of Smartup whenever requires for AA platform incase?
  7. Should the Look and Feel UI has to similar to SmartUp platform?
+ 8. The new code based developed has to propritory of SmartUp ?
  
  ## Acronymns
  
