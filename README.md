@@ -9,9 +9,9 @@ a) High Traffic Load.
    
 b) Registration Page to collect user details integrated with simple CRM Plugin.
  1. WooCommerce plugin (UI for Registration page)
-    1a) What is Advance NIL website in flow diagram?
-    1b) What fields has to be present in registration form page?
-    1c) Registration details has to be sent to Which platform DB either Smartup or AA?
+    1) What is Advance NIL website in flow diagram?
+    2) What fields has to be present in registration form page?
+    3) Registration details has to be sent to Which platform DB either Smartup or AA?
  
  
  
