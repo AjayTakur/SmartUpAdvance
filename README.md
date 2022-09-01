@@ -1,5 +1,5 @@
 # SmartUpAdvance
-Integration of SmartUp platform with the AA platform
+Integration of SmartUp platform(learn, interact and share on any device) with the AA platform
 
 # PreLaunch (1-3 Months)
 ## Website Preparation
@@ -9,6 +9,11 @@ a) High Traffic Load.
    
 b) Registration Page to collect user details integrated with simple CRM Plugin.
  1. WooCommerce plugin (UI for Registration page)
+ What is Advance NIL website in flow diagram?
+ What fields has to be present in registration form page?
+ Registration details has to be sent to Which platform DB either Smartup or AA?
+ 
+ 
  
 c) Bank account to connect with payment gateway.
  1. Stripe plugin 
@@ -18,8 +23,9 @@ d) Setup email address for zendesk and add smartup as additional agent.
   2. Needed more clarity
   
 e) Check Us consumer laws on digital subsriptions to setup purchase policies.
- 1. Chargebee
- 2. Need More clarity on data storage
+ 1. Where to get the US Consumer laws ? any references provide.
+ 2. Chargebee
+ 3. Need More clarity on data storage
  
  
  # Tech Stack
@@ -27,10 +33,12 @@ e) Check Us consumer laws on digital subsriptions to setup purchase policies.
  2. MySql Server
  
  # Questions
- 1. Where to host the AA application?
- 2. Security for the application?
- 3. Should the application be responsive?
- 4. Do we need to have Junits for functionality?
- 5. How to get the test data of Smartup whenever requires for AA platform incase?
- 6. Should the Look and Feel UI has to similar to SmartUp platform?
+ 
+ 1. How different is Smartup platform and AA ?
+ 2. Where to host the AA application?
+ 3. Security for the application?
+ 4. Should the application be responsive?
+ 5. Do we need to have Junits for functionality?
+ 6. How to get the test data of Smartup whenever requires for AA platform incase?
+ 7. Should the Look and Feel UI has to similar to SmartUp platform?
  
