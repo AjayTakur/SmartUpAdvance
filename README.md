@@ -49,6 +49,9 @@ e) Check Us consumer laws on digital subsriptions to setup purchase policies.
  
  **CRM**: Customer relationship management is any tool, strategy, or process that helps businesses better organize and access customer data.
  
+ ## UI Screens
+ To do
+ 
  ## Functionality Flow Diagrams
  To do
  
